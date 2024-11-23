@@ -69,3 +69,27 @@ Berikut adalah penjelasan mengenai program sederhana yang mengelola daftar nilai
     - Pengguna memasukkan nama mahasiswa yang ingin dihapus. Program menghapus data tersebut.
 
 # Contoh Output
+
+#  - Tambah Data
+    
+![Screenshot 2024-11-23 144711](https://github.com/user-attachments/assets/9d7ccd24-e410-482f-8538-cea3aa989fe1)
+
+#  - Tampilkan Data
+    
+![Screenshot 2024-11-23 145024](https://github.com/user-attachments/assets/efb81301-45ed-4854-b645-7f1b3c422c9b)
+
+#  - Ubah Data
+    
+![Screenshot 2024-11-23 145813](https://github.com/user-attachments/assets/c92ba354-65cc-44a3-b56c-8d597173cb92)
+
+#  - Hapus Data
+    
+![Screenshot 2024-11-23 150039](https://github.com/user-attachments/assets/31c113c0-3b0e-4bfd-ac23-d10a6b98f356)
+
+# - Cari Data
+
+![Screenshot 2024-11-23 150226](https://github.com/user-attachments/assets/44065cd5-f76e-4a93-8d32-b72a49983ad4)
+
+# - Keluar
+   
+![Screenshot 2024-11-23 150317](https://github.com/user-attachments/assets/4ace6ddf-a228-4ea4-ae52-33a6711aa03b)
