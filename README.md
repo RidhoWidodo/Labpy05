@@ -37,6 +37,6 @@ Berikut adalah penjelasan mengenai program sederhana yang mengelola daftar nilai
    - Meminta pengguna untuk memasukkan nama mahasiswa untuk dicari.
    - Jika ditemukan, akan menampilkan detail nilai mahasiswa tersebut.
 
-# Menu Utama:
+# 3. Menu Utama:
  - Program menggunakan loop `while True` untuk menampilkan menu utama yang memungkinkan pengguna memilih opsi yang diinginkan (menambah, menampilkan, mengubah, menghapus, 
    atau mencari data mahasiswa, atau keluar dari program).
